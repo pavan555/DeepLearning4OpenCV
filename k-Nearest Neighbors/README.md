@@ -16,7 +16,7 @@ i used the dataset animals which consists of 3 categories in which each have 100
 5. for getting predicted classes,iterate from 1 to total number of training data points
     * Calculate the distance between test data and each row of training data.usually we use distance function as Euclidean distance since it is most popular, alternatively we can use Manhatten distance,Hamming distance,Minkowski distance...
     
-    ![Distance Functions](http://www.saedsayad.com/images/KNN_similarity.png)
+    ![Distance Functions](https://ibb.co/6rdkPMK)
     
     * Sort the calculated distances in ascending order
     * Get top k rows from sorted list
