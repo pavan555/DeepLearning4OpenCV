@@ -7,6 +7,8 @@ i used the dataset animals which consists of 3 categories in which each have 100
 * Dog
 * Cat
 
+#
+
 **Pseudo-Code for k-Nearest Neighbors Algorithm :**
 
 1. Load the Dataset
