@@ -23,4 +23,6 @@ i used the dataset animals which consists of 3 categories in which each have 100
     * Get the most frequent class from this list
     * return the predicted class
 
+#
+
 Further reading [About K-Nearest Neighbors ](http://www.saedsayad.com/k_nearest_neighbors.htm)
