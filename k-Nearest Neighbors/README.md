@@ -9,5 +9,5 @@ i used the dataset animals which consists of 3 categories in which each have 100
 <h3>Cat</h3>
 
 
-<p style="font-size:20px">Further reading <a href="http://www.saedsayad.com/k_nearest_neighbors.htm">About K-Nearest Neighbors
-    </a></p>
+<p>Further reading <span><a href="http://www.saedsayad.com/k_nearest_neighbors.htm">About K-Nearest Neighbors
+    </a></span></p>
