@@ -33,7 +33,9 @@ i used the dataset animals which consists of 3 categories in which each have 100
     * i.e if the algorithm makes a mistake then there is no way to learn from that mistake and "improve" itself for further classifications
     * we simply have to store the training dataset and then predictions are made on testing dataset to our testing data.
 
+
 - Training maybe easy but Testing is quite slow because we have to apply distance function to every training point.
+
 
 - Without Any Data structures,this algorithm scales linearly with the number of data points,making it not only practically questionable to use in high dimensions(like 2D,3D,4D....),but theoretically questionable in terms of its usage.
 
