@@ -27,4 +27,12 @@ i used the dataset animals which consists of 3 categories in which each have 100
 
 #
 
+**Drawbacks :**
+
+- It doesn't actually learn anything.
+    * i.e if the algorithm makes a mistake then there is no way to learn from that mistake and "improve" itself for further classifications
+- Without Any Data structures,this algorithm scales linearly with the number of data points,making it not only practically questionable to use in high dimensions(like 2D,3D,4D....),but theoretically questionable in terms of its usage.
+
+#
+
 Further reading [About K-Nearest Neighbors ](http://www.saedsayad.com/k_nearest_neighbors.htm)
