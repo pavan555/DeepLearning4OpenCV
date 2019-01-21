@@ -1,5 +1,10 @@
 # DeepLearning4OpenCV/k-Nearest Neighbors
 
+**Introduction:**
+
+* k-Nearest Neighbors is a simple Machine learning algorithm.
+* It stores all training data and classifies new data based on a similarity measure(e.g: distance functions...)
+* kNN used in the beginning of 1970's as a non-parametric techinque
 
 
 #
