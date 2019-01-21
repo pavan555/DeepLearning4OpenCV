@@ -1,11 +1,6 @@
 # DeepLearning4OpenCV/k-Nearest Neighbors
 
-i used the dataset animals which consists of 3 categories in which each have 1000 sets of images.
 
-3 categories are:
-* Panda
-* Dog
-* Cat
 
 #
 
@@ -38,6 +33,21 @@ i used the dataset animals which consists of 3 categories in which each have 100
 
 
 - Without Any Data structures,this algorithm scales linearly with the number of data points,making it not only practically questionable to use in high dimensions(like 2D,3D,4D....),but theoretically questionable in terms of its usage.
+#
+**Result:**
+
+- i used the dataset animals which consists of 3 categories in which each have 1000 sets of images.
+
+3 categories are:
+* Panda
+* Dog
+* Cat
+
+
+####Output
+
+![result](https://user-images.githubusercontent.com/25476729/51479092-4e35a200-1db3-11e9-9baf-e4f6fce8c37e.png)
+
 
 #
 
