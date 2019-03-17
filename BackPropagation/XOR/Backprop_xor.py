@@ -1,4 +1,4 @@
-from LP.nn.backprop import NeuralNetwork
+from MyimageSearch.nn.backprop import NeuralNetwork
 import numpy as np
 
 
