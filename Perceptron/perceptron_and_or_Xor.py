@@ -1,5 +1,5 @@
 import numpy as np
-from LP.nn.perceptron import Perceptron
+from MyimageSearch.nn.perceptron import Perceptron
 from time import sleep
 
 
