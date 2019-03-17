@@ -1,4 +1,4 @@
-from LP.nn.backprop import NeuralNetwork
+from MyimageSearch.nn.backprop import NeuralNetwork
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelBinarizer
